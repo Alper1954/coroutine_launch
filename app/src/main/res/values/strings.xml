@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Corountine launch</string>
+    <string name="start">start corountines</string>
+    <string name="starting">coroutines starting</string>
+    <string name="all_started">all coroutines started</string>
+    <string name="finished_coroutine">finished coroutine %s</string>
+</resources>
